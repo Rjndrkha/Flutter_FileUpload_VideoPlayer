@@ -1,16 +1,16 @@
-# flutter_fileupload_videoplayer
+# Flutter FileUpload & VideoPlayer
 
 A new Flutter project.
 
-## Getting Started
+## Importing Library Image_picker 
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/75615789/191186415-b12df3b5-15c0-4e95-aac5-dfd327727c95.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Upload Image View 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://user-images.githubusercontent.com/75615789/191187740-303048e2-79b5-4599-8339-376efb289f52.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Importing Library Video_Player
+
+![image](https://user-images.githubusercontent.com/75615789/191188149-26ac01e0-f237-4849-a0d4-4b575b75ec2b.png)
+
